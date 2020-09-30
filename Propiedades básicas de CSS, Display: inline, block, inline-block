@@ -1,0 +1,7 @@
+display Inline Block en CSS?
+Uno de los valores más curiosos de display es inline-block, que crea cajas que son de bloque y en línea de forma simultánea. Una caja de tipo inline-block se comporta como si fuera de bloque, pero respecto a los elementos que la rodean es una caja en línea.
+display block en CSS?
+Cada elemento tiene un valor de display por defecto dependiendo de qué tipo de elemento sea. ... El valor por defecto para la mayoría de los elementos es usualmente block (de bloque) o inline (en línea). Un elemento que es block es comunmente llamado elemento block-level.
+el display block?
+Se trata de un párrafo normal que al recibir un click esconde o muestra alternativamente el contenido de un elemento DIV. Este párrafo está contenido dentro de un DIV al cual, mediante JavaScript, se le cambia la propiedad display para que sea visible si está oculto o para que desaparezca si está visible.
+https://www.youtube.com/watch?v=DU9kY8kOu4s
